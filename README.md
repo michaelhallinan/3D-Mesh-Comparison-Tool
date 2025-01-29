@@ -13,7 +13,11 @@
     <a href="https://github.com/michaelhallinan/3D-Mesh-Comparison-Tool/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     &middot;
     <a href="https://github.com/michaelhallinan/3D-Mesh-Comparison-Tool/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
-  </p>
+    <br /> 
+    <br /> 
+    <img src="https://img.shields.io/github/repo-size/michaelhallinan/3D-Mesh-Comparison-Tool" alt="GitHub repo size">
+    <img src="https://img.shields.io/github/contributors/michaelhallinan/3D-Mesh-Comparison-Tool" alt="GitHub contributors">
+</p>
 </div>
 
 ## Description
