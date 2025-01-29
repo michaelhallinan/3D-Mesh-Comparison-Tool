@@ -10,9 +10,9 @@
   <p align="center">
     An easy way to grab descriptive statistics and visualize 3D mesh files (.obj/.stl)
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/michaelhallinan/3D-Mesh-Comparison-Tool/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     &middot;
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/michaelhallinan/3D-Mesh-Comparison-Tool/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
